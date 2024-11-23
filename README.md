@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Tony Jacobs
-- 👀 I’m interested in anything Data Engineering and Cloud related.
-- 🌱 I’m currently learning everything cloud and data engineering related.
-- 💞️ I’m looking to collaborate on fun data integration projects.
-- 📫 How to reach me tjacobs.datascience@gmail.com.
+This repository is to showcase my Data Engineering & Analytics skills, collaborate on projects, and track my progress throughout my career.
 
 <!---
 tonyjacobscloudpro/tonyjacobscloudpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
